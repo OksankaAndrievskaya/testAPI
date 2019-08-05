@@ -1,0 +1,30 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "apidoc": "^0.17.6",
+    "async-request": "^1.2.0",
+    "bcrypt": "^3.0.0",
+    "body-parser": "^1.17.2",
+    "connect-redis": "^3.3.3",
+    "cookie-parser": "^1.4.3",
+    "cron": "^1.7.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "express-api-doc": "0.0.12",
+    "express-list-routes": "^0.1.4",
+    "express-session": "^1.15.5",
+    "image-to-base64": "^2.0.1",
+    "rand-token": "^0.4.0",
+    "request": "^2.88.0",
+    "validator": "^10.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
