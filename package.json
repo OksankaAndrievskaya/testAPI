@@ -19,7 +19,7 @@
     "image-to-base64": "^2.0.1",
     "rand-token": "^0.4.0",
     "request": "^2.88.0",
-    "validator": "^10.4.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {},
   "scripts": {
